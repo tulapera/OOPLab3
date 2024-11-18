@@ -1,0 +1,22 @@
+﻿<Window x:Class="Batenchuk3._3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Масиви" Height="350" Width="400">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Text="Введіть кількість елементів масиву (n):"/>
+        <TextBox Name="nTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="220,10,0,0" Width="100"/>
+
+        <Button Content="Створити масив" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0" Width="150" Click="CreateArrayButton_Click"/>
+
+        <TextBlock Name="arrayTextBlock" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0" Text="Початковий масив:"/>
+
+        <TextBlock Name="productTextBlock" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,120,0,0" Text="Добуток індексів від’ємних елементів:"/>
+
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,160,0,0" Text="Введіть кількість перших елементів для впорядкування (k):"/>
+        <TextBox Name="kTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,180,0,0" Width="100"/>
+
+        <Button Content="Впорядкувати" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,210,0,0" Width="150" Click="SortArrayButton"/>
+
+        <TextBlock Name="sortedArray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,240,0,0" Text="Масив після впорядкування:"/>
+    </Grid>
+</Window>

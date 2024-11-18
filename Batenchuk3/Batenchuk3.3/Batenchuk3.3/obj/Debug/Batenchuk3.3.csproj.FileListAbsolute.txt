@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\Batenchuk3.3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\Batenchuk3.3_MarkupCompile.cache
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\Batenchuk3.3.g.resources
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\Batenchuk3._3.Properties.Resources.resources
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\Batenchuk3.3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\Batenchuk3.3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\bin\Debug\Batenchuk3.3.exe.config
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\bin\Debug\Batenchuk3.3.exe
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\bin\Debug\Batenchuk3.3.pdb
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\Batenchuk3.3.exe
+C:\Users\Admin\source\repos\Batenchuk3.3\Batenchuk3.3\obj\Debug\Batenchuk3.3.pdb
